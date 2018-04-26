@@ -1,5 +1,9 @@
 node_modules/*
+package-lock.json
+functions/node_modules/*
+functions/package-lock.json
 npm-debug.*
 .env
 service_account.json
 twilio.js
+*.log
